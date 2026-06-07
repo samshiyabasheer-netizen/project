@@ -3,7 +3,7 @@
         id: "1",
         companyName: "Google",
         jobTitle: "Frontend Developer",
-        imagePath: "/images/resume_1.png",
+        imagePath: "/images/resume_1.jpeg",
         resumePath: "/resumes/resume-1.pdf",
         feedback: {
             overallScore: 85,
@@ -33,7 +33,7 @@
         id: "2",
         companyName: "Microsoft",
         jobTitle: "Cloud Engineer",
-        imagePath: "/images/resume_2.png",
+        imagePath: "/images/resume_2.jpeg",
         resumePath: "/resumes/resume-2.pdf",
         feedback: {
             overallScore: 55,
@@ -63,7 +63,7 @@
         id: "3",
         companyName: "Apple",
         jobTitle: "iOS Developer",
-        imagePath: "/images/resume_3.png",
+        imagePath: "/images/resume_3.jpeg" ,
         resumePath: "/resumes/resume-3.pdf",
         feedback: {
             overallScore: 75,

@@ -55,8 +55,7 @@ const ATS = ({
                     </div>
                 ))}
                 <p className="text-lg text-gray-500">
-                    Want a better score? Improve your resume by applying the suggestions
-                    listed below.
+                    Keep refining your resume to improve your chances of getting post ATS filters and into the hands of recruiters.
                 </p>
             </div>
         </div>
